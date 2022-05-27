@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kennedymahoro
+- 👋 Hi, I’m Kennedy Mahoro
 - 👀 I’m intrested in Web development
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: email me...
+- 📫 How to reach me: kennedymahoro1@gmail.com
 
 <!---
 kennedymahoro/kennedymahoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
