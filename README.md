@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kennedy Mahoro
 - 👀 I’m intrested in Web development
-- 🌱 I’m currently learning javascript/typescript
+- 🌱 I’m currently learning javascript/typescript and reactjs
 - 📫 How to reach me: kennedymahoro1@gmail.com
 - https://kennedymahoro.github.io/website/ my website.
 
